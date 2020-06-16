@@ -1,2 +1,2 @@
-# wiper_config
+# wiperf_config
 CLI configuration tool for wiperf
